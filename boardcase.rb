@@ -9,7 +9,6 @@ class BoardCase
 		@x = x.to_i
 		@y = y.to_i
 		@player = player
-		
 	end
 
 
